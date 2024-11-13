@@ -10,4 +10,4 @@ A transformada de Laplace é usada para converter uma função que está no dom�
 
 
 
-
+Onde o 's' é uma variável complexa dada por X+JY.
