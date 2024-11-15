@@ -11,10 +11,14 @@
             "id": "22bf7e3d76a17c16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Estudos 2 Unidade.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Estudos 2 Unidade"
             }
           }
         ]
@@ -157,6 +161,7 @@
   },
   "active": "22bf7e3d76a17c16",
   "lastOpenFiles": [
+    "Pasted image 20241115151003.png",
     "Estudos 2 Unidade.md",
     "Estudos 2.md",
     "Sem título.md",
