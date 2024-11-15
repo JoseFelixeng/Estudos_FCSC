@@ -6,7 +6,7 @@
 A transformada de Laplace é usada para converter uma função que está no domínio do tempo para o domínio da frequência de forma a ser possível a utilização para resolução de problemas.
 
 
-![[Pasted image 20241113043522.png]]
+![tl](./img/tl.png)
 
 
 
@@ -22,6 +22,6 @@ Exemplo 2: máquina de lavar roupas
 § Saída: roupas (teoricamente) limpas 
 § Seguirá o mesmo procedimento independentemente das roupas estarem mais ou menos sujas
 
-![[Pasted image 20241115151003.png]]
+![sis](./img/sist1.png)
 
 ## Sistema em Malha fechada
