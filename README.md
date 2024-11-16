@@ -16,12 +16,21 @@ Onde o 's' é uma variável complexa dada por X+JY. Ao utilizar tabelas podemos 
 ## Sistema de Malha Aberta
 A entrada é escolhida com base na experiência de tal forma que dê o valor desejado na saída.
 
-Exemplo 2: máquina de lavar roupas
-§ Entrada: roupas sujas 
-§ Ajuste por meio de dia e/ou botões: ajuste de acordo com tipo de tecido e forma da lavagem desejada -  não se altera de acordo com as condições das roupas 
-§ Saída: roupas (teoricamente) limpas 
-§ Seguirá o mesmo procedimento independentemente das roupas estarem mais ou menos sujas
+#### Exemplo 2: máquina de lavar roupas
+* Entrada: roupas sujas 
+* Ajuste por meio de dia e/ou botões: ajuste de acordo com tipo de tecido e forma da lavagem desejada 
+* Não se altera de acordo com as condições das roupas 
+* Saída: roupas (teoricamente) limpas 
+* Seguirá o mesmo procedimento independentemente das roupas estarem mais ou menos sujas
 
 ![sis](./img/sist1.png)
 
 ## Sistema em Malha fechada
+É um sistema que utilliza a realimentação da entrada para corrigir erros externos e internos.
+
+![MF](/img/mf.png)
+
+
+#### Exemplo: 
+
+![ex1](./img/ex1.png)
